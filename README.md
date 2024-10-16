@@ -8,8 +8,7 @@ Forumly is a forum-based social media platform where users can create communitie
 - **Content Upload**: Post content within communities and engage with others' posts.
 - **Upvote/Downvote System**: Interact with content through voting features.
 - **Razorpay Integration**: Premium subscription for exclusive features using secure payments.
-- **Email Verification**: Email-based password reset and account verification.
-- **Responsive UI**: Built with Tailwind CSS for a modern, responsive interface.
+- **Email Verification**: Email-based password verification.
 
 ## Tech Stack
 
@@ -17,9 +16,6 @@ Forumly is a forum-based social media platform where users can create communitie
 - **Backend**: Spring Boot
 - **Database**: MySQL
 - **Payment Gateway**: Razorpay API
-- **Email Service**: (Specify service used, e.g., JavaMail)
-
-## Setup Instructions
 
 ### Prerequisites
 
